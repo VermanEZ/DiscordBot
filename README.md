@@ -1,6 +1,6 @@
 # DiscordBot
 
-###### A discord bot that can show information about faceit players and can track people online on a discord server
+###### A discord bot that can show information about faceit players and can track people's online on a discord server
 ***
 `.faceit <faceit_nick>`
 
