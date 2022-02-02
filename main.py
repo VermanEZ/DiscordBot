@@ -33,7 +33,7 @@ async def unload(ctx, extension):
         print(f"Unloaded {extension}")
     except ExtensionNotLoaded as e:
         print(e)
-    
+
 @client.command()
 @commands.check(is_owner)
 async def reload(ctx, extension):
